@@ -49,19 +49,19 @@ Best Parameter:  1.0
 
 ### Classification report:
               precision    recall  f1-score   support
-
            0       0.82      0.76      0.79       252
            1       0.77      0.83      0.80       251
-
     accuracy                           0.80       503
-   macro avg       0.80      0.80      0.79       503
-weighted avg       0.80      0.80      0.79       503
+    macro avg      0.80      0.80      0.79       503
+    weighted avg   0.80      0.80      0.79       503
 
 
 ### Classification accuracy using Boosting:
 
 False Positive Rate: 0.25
+
 Classification Accuracy:  0.8071570576540755
+
 Classification Error:  0.19284294234592447
 
 
