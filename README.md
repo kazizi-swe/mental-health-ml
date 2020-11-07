@@ -2,18 +2,18 @@
 A machine learning model written using Jupyter notebooks.
 
 
-###Objective:
+### Objective:
 Based on the given data set from the conducted survey on mental health, does a person need treatment or not?
 
 
-###Motivation:
+### Motivation:
 The motivation behind this question is to understand if individuals dealing with mental health challenges seek 
 treatment or not. Some peple identify to have mental health challenges, but unfortunately they don't seek help or 
 treatment. With this model, we can predict if the individual needs treatment or not, and use the result to better 
 understand and assist individuals.
 
 
-###Steps:
+### Steps:
 1. Data cleaning and transformation
 2. Data visualization
 
@@ -31,27 +31,19 @@ understand and assist individuals.
 
 ### Train/Test Split results:
 The R2 score on the training set: 0.43795214301614077
+
 The R2 score on the testing set: 0.3718454543740196
 
 
 ### Cross Validation Accuracy:
-CV score attempt 1:  0.8289473684210527
-CV score attempt 2:  0.881578947368421
-CV score attempt 3:  0.7631578947368421
-CV score attempt 4:  0.7763157894736842
-CV score attempt 5:  0.8133333333333334
-CV score attempt 6:  0.7333333333333333
-CV score attempt 7:  0.8
-CV score attempt 8:  0.7866666666666666
-CV score attempt 9:  0.84
-CV score attempt 10:  0.76
-
 CV mean accuracy score: 0.798 +/- 0.042
 
 
 ### Grid search accuracy:
 GridSearchCV accuracy: 0.796 +/- 0.033
+
 GridSearchCV best score:  0.7984084880636605
+
 Best Parameter:  1.0
 
 
@@ -67,18 +59,10 @@ weighted avg       0.80      0.80      0.79       503
 
 
 ### Classification accuracy using Boosting:
-First 25 samples: 
 
-True: [0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 0 1 1 0 0]
-Pred: [1 0 0 0 1 1 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1] 
-
-Percentage of 1: 0.4990059642147117
-Percentage of 0: 0.5009940357852882
 False Positive Rate: 0.25
-----------------------------------------------
 Classification Accuracy:  0.8071570576540755
 Classification Error:  0.19284294234592447
-----------------------------------------------
 
 
 ### Conclusion:
