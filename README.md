@@ -20,18 +20,23 @@ understand and assist individuals.
 
 ### Visualizations:
 1. Probability of impact on top features:
+
 ![Alt text](images/probability-of-impact.PNG?raw=true "Title")
 
-2. Age distribution graph
+2. Age distribution graph:
+
 ![Alt text](images/age-distribution.PNG?raw=true "Title")
 
-3. Age distribution with respect to treatment
+3. Age distribution with respect to treatment:
+
 ![Alt text](images/age-distribution-treatment.PNG?raw=true "Title")
 
-4. Cross validation accuracy
+4. Cross validation accuracy:
+
 ![Alt text](images/cross-validation-accuracy.PNG?raw=true "Title")
 
-5. Most impacting features
+5. Most impacting features:
+
 ![Alt text](images/most-impacting-features.PNG?raw=true "Title")
 
 
