@@ -1,5 +1,5 @@
 # mental-health-ml
-A machine learning model written using Jupyter notebooks.
+A machine learning model written using Python with the help of Jupyter notebooks.
 
 
 ### Objective:
@@ -20,6 +20,7 @@ understand and assist individuals.
 
 ### Visualizations:
 1. Probability of impact on top features:
+![Alt text](images/age-distribution.PNG?raw=true "Title")
 
 2. Age distribution graph
 
