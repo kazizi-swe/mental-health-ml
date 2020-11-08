@@ -20,15 +20,20 @@ understand and assist individuals.
 
 ### Visualizations:
 1. Probability of impact on top features:
-![Alt text](images/age-distribution.PNG?raw=true "Title")
+![Alt text](images/probability-of-impact.PNG?raw=true "Title")
 
 2. Age distribution graph
+![Alt text](images/age-distribution.PNG?raw=true "Title")
 
 3. Age distribution with respect to treatment
+![Alt text](images/age-distribution-treatment.PNG?raw=true "Title")
 
 4. Cross validation accuracy
+![Alt text](images/cross-validation-accuracy.PNG?raw=true "Title")
 
 5. Most impacting features
+![Alt text](images/most-impacting-features.PNG?raw=true "Title")
+
 
 ### Train/Test Split results:
 The R2 score on the training set: 0.43795214301614077
