@@ -1,5 +1,5 @@
 # mental-health-ml
-A machine learning model written using Python with the help of Jupyter notebooks.
+A Logistic regression model written using Python with the help of Jupyter notebooks.
 
 
 ### Objective:
